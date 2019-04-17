@@ -18,6 +18,4 @@ The ‘Color Theory for Developers’ Playground Book was born from a simple ide
 
 The main framework used in this playground, besides PlaygroundSupport, is SpriteKit. For the animations of the Introduction and End cutscenes I used Tumult Hype and designed from scratch all the assets. The book is divided, besides introduction and ending, in four pages: let’s see in depth the features and technologies used.
 
-![Ending_ColorTheory](https://user-images.githubusercontent.com/49493560/56270341-2de95b00-60f6-11e9-8b62-9148a299c030.png)
-
 Let me know what you think of it! ✨
